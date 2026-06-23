@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "operation": "create_content_fragment",
+    "ajoId": "dcdbc406-ee6d-4ce7-812f-d1efa84d0693",
+    "updatedAt": "2026-06-23T19:15:40.369Z",
+    "updatedBy": "edwin.trakselis123@gmail.com",
+    "sandbox": "etrakselis-sandbox"
+  },
+  "channels": [
+    "email"
+  ],
+  "description": "Nordstrom Wishlist Price-Drop email — More to Explore: header plus 6 service tiles (Pick Up in Store, Styling, Gift Card, Alterations, Beauty, Nordy Pod), each with desktop/mobile variants, in two 3-up rows. Off-convention Section name per explicit user direction.",
+  "fragment": {
+    "content": "PLACEHOLDER_CONTENT",
+    "editorContext": {
+      "wysiwyg-content": "PLACEHOLDER_WYS"
+    }
+  },
+  "name": "NV_PD_Wishlist_MoreToExplore",
+  "parentFolderId": "06cfa155-7caa-485d-970c-0e6cf0ac20c8",
+  "tagIds": [
+    "ccc8483f-62cc-4d39-90d8-c8130a5672ca",
+    "5ddbda80-eb3a-4467-a550-4c20ebacec0f",
+    "6a46ef8d-db53-4d26-b001-239c9885d2d6",
+    "59cea9ae-7ca3-440d-bd69-80c889a0d426",
+    "05727401-53f2-4013-be3f-c90109f0165c",
+    "d5ce8422-6425-46ef-80bc-94208d933e0e"
+  ],
+  "type": "html"
+}
