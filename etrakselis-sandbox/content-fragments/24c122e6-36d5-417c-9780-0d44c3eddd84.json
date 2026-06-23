@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "operation": "patch_content_fragment",
+    "ajoId": "24c122e6-36d5-417c-9780-0d44c3eddd84",
+    "updatedAt": "2026-06-23T21:31:33.827Z",
+    "updatedBy": "edwin.trakselis123@gmail.com",
+    "sandbox": "etrakselis-sandbox"
+  },
+  "etag": "\"d701a150-0000-0200-0000-6a3afacc0000\"",
+  "fragmentId": "24c122e6-36d5-417c-9780-0d44c3eddd84",
+  "patches": [
+    {
+      "op": "add",
+      "path": "/parentFolderId",
+      "value": "c67c6093-c45d-4380-8fee-22c5f85962f3"
+    }
+  ]
+}
