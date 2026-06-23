@@ -1,14 +1,14 @@
 {
   "_meta": {
     "operation": "ensure_folder_path",
-    "updatedAt": "2026-06-23T02:56:33.927Z",
+    "updatedAt": "2026-06-23T16:27:54.628Z",
     "updatedBy": "edwin.trakselis123@gmail.com",
     "sandbox": "etrakselis-sandbox"
   },
-  "folderType": "content-template",
+  "folderType": "fragment",
   "path": [
-    "LM",
-    "BIS",
+    "NV",
+    "PD",
     "Wishlist"
   ]
 }
