@@ -1,17 +1,13 @@
 {
   "_meta": {
-    "operation": "update_content_fragment",
+    "operation": "archive_content_fragment",
     "requestedBy": "edwin.trakselis123@gmail.com",
-    "requestedAt": "2026-06-30T05:31:48.050Z",
+    "requestedAt": "2026-06-30T16:29:42.848Z",
     "sandbox": "etrakselis-sandbox",
     "tenant": "_acssandboxustwo",
-    "tagNames": [
-      "section-hero",
-      "trigger-claudereview",
-      "brand-lm",
-      "trigger-category-pd",
-      "draft"
-    ]
+    "deleted": true,
+    "deletedAt": "2026-06-30T16:29:42.848Z",
+    "ajoId": "9c7127ba-8a75-47b0-9e18-a07d4a046577"
   },
   "channels": [
     "email"
