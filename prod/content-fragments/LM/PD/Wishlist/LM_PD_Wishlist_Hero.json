@@ -1,19 +1,13 @@
 {
   "_meta": {
-    "operation": "update_content_fragment",
+    "operation": "archive_content_fragment",
     "requestedBy": "edwin.trakselis123@gmail.com",
-    "requestedAt": "2026-06-30T16:16:12.804Z",
+    "requestedAt": "2026-06-30T16:21:14.579Z",
     "sandbox": "prod",
     "tenant": "_acssandboxustwo",
-    "tagNames": [
-      "section-hero",
-      "brand-lm",
-      "trigger-wishlist",
-      "asset-family-lm-pd-wishlist",
-      "trigger-category-pd",
-      "draft"
-    ],
-    "sourceContentHash": "877d0584bce98723276edd1f64150086a38b41c975f7aba63243ed1d097189e1"
+    "deleted": true,
+    "deletedAt": "2026-06-30T16:21:14.579Z",
+    "ajoId": "de3160ab-6161-4798-84e3-f3473c4d08d9"
   },
   "name": "LM_PD_Wishlist_Hero",
   "type": "html",
