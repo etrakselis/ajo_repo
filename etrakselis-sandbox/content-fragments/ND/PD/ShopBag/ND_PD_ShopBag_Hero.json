@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "operation": "patch_content_fragment",
+    "ajoId": "fc52e944-6c9c-410d-b300-e5f646c152a1",
+    "updatedAt": "2026-07-05T02:47:19.987Z",
+    "updatedBy": "etrakselis@adobe.com",
+    "sandbox": "etrakselis-sandbox",
+    "tenant": "_acssandboxustwo"
+  },
+  "parentFolderId": "c905adc7-3de8-495b-bee4-66d9ab2d7ff0",
+  "tagIds": [
+    "8125e1d7-34cb-4155-a582-ea51850a4fff",
+    "5ddbda80-eb3a-4467-a550-4c20ebacec0f",
+    "9d35eb48-011f-404e-80f0-7acdaba01753",
+    "3f006d1c-16cd-496f-a228-7ffbef0710b8",
+    "4abbe6ba-36ef-4c18-9373-fbfc346c9bee",
+    "d5ce8422-6425-46ef-80bc-94208d933e0e"
+  ]
+}
